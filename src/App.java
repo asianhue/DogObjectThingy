@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        //asdf
         try (Scanner str = new Scanner(System.in)) {
             String color;
             String breed;
